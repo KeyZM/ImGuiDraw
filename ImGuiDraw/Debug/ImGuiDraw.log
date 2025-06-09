@@ -1,0 +1,155 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: “DXGI_STATUS_OCCLUDED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57679,1): message : 参见“DXGI_STATUS_OCCLUDED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: “DXGI_STATUS_CLIPPED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57688,1): message : 参见“DXGI_STATUS_CLIPPED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: “DXGI_STATUS_NO_REDIRECTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57697,1): message : 参见“DXGI_STATUS_NO_REDIRECTION”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: “DXGI_STATUS_NO_DESKTOP_ACCESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57706,1): message : 参见“DXGI_STATUS_NO_DESKTOP_ACCESS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: “DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57715,1): message : 参见“DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: “DXGI_STATUS_MODE_CHANGED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57724,1): message : 参见“DXGI_STATUS_MODE_CHANGED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: “DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57733,1): message : 参见“DXGI_STATUS_MODE_CHANGE_IN_PROGRESS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: “DXGI_ERROR_INVALID_CALL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57748,1): message : 参见“DXGI_ERROR_INVALID_CALL”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: “DXGI_ERROR_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57757,1): message : 参见“DXGI_ERROR_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: “DXGI_ERROR_MORE_DATA”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57766,1): message : 参见“DXGI_ERROR_MORE_DATA”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: “DXGI_ERROR_UNSUPPORTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57775,1): message : 参见“DXGI_ERROR_UNSUPPORTED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: “DXGI_ERROR_DEVICE_REMOVED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57784,1): message : 参见“DXGI_ERROR_DEVICE_REMOVED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: “DXGI_ERROR_DEVICE_HUNG”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57793,1): message : 参见“DXGI_ERROR_DEVICE_HUNG”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: “DXGI_ERROR_DEVICE_RESET”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57803,1): message : 参见“DXGI_ERROR_DEVICE_RESET”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: “DXGI_ERROR_WAS_STILL_DRAWING”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57812,1): message : 参见“DXGI_ERROR_WAS_STILL_DRAWING”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: “DXGI_ERROR_FRAME_STATISTICS_DISJOINT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57822,1): message : 参见“DXGI_ERROR_FRAME_STATISTICS_DISJOINT”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: “DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57831,1): message : 参见“DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: “DXGI_ERROR_DRIVER_INTERNAL_ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57841,1): message : 参见“DXGI_ERROR_DRIVER_INTERNAL_ERROR”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: “DXGI_ERROR_NONEXCLUSIVE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57850,1): message : 参见“DXGI_ERROR_NONEXCLUSIVE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: “DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57859,1): message : 参见“DXGI_ERROR_NOT_CURRENTLY_AVAILABLE”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: “DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57869,1): message : 参见“DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: “DXGI_ERROR_REMOTE_OUTOFMEMORY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57878,1): message : 参见“DXGI_ERROR_REMOTE_OUTOFMEMORY”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58170,1): message : 参见“D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: “D3D11_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58179,1): message : 参见“D3D11_ERROR_FILE_NOT_FOUND”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: “D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58189,1): message : 参见“D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: “D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58198,1): message : 参见“D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: “D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58146,1): message : 参见“D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS”的前一个定义
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: “D3D10_ERROR_FILE_NOT_FOUND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58155,1): message : 参见“D3D10_ERROR_FILE_NOT_FOUND”的前一个定义
+D:\Desktop\ImGuiDraw\ImGuiDraw\Memory.h(93,26): warning C4244: “=”: 从“WCHAR”转换到“CHAR”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(66,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(67,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(68,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(69,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(70,80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(92,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(93,62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(94,62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(98,93): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(102,93): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(107,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(108,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(115,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(116,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(117,69): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(118,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(120,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(121,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(177,87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(209,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(210,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(211,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(189,6): warning C4101: “Sides”: 未引用的局部变量
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(228,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(248,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(249,36): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(252,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(253,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(314,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(322,34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(323,34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(328,107): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(328,76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(333,107): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(333,76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(341,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(341,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(341,79): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(351,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(351,51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(351,76): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(351,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(360,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(360,51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(360,74): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(360,69): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(360,85): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(361,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(361,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(361,72): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(361,67): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(361,85): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(367,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(367,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(367,75): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(367,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(367,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(368,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(368,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(368,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(368,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(368,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(369,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(369,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(369,75): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(369,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(369,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(370,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(370,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(370,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(370,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(370,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(371,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(371,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(371,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(371,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(371,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(372,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(372,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(372,75): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(372,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(372,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(373,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(373,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(373,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(373,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(373,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(374,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(374,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(374,75): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(374,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\Draw.hpp(374,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\ImGuiDraw\ImGuiDraw\main.cpp(479,8): warning C4101: “Enemy_MeDis”: 未引用的局部变量
+D:\Desktop\ImGuiDraw\ImGuiDraw\main.cpp(493,6): warning C4101: “Ret”: 未引用的局部变量
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  ImGuiDraw.vcxproj -> D:\Desktop\ImGuiDraw\Debug\ImGuiDraw.exe
